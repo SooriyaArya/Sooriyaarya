@@ -1,1 +1,1 @@
-This platform is designed to further add projects that are related to sql and other programming languages. It should be also added to showcase the on going  projects, completed projects, and possible future projects. 
+This platform is designed to further add projects that are related to sql and other programming languages. It is also  added to showcase the on going  projects, completed projects, and possible future projects. 
